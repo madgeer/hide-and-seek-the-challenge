@@ -1,6 +1,6 @@
 # HIDE AND SEEK THE CHALLENGE  - TMD DPBO 2024/2025
 
-**HIDE AND SEEK THE CHALLENGE ** adalah permainan tembak-menembak 2D Dimana Pemain harus bertahan hidup dari serangan alien, menghindari rintangan batu, dan mengumpulkan skor tertinggi.
+**HIDE AND SEEK THE CHALLENGE** adalah permainan tembak-menembak 2D Dimana Pemain harus bertahan hidup dari serangan alien, menghindari rintangan batu, dan mengumpulkan skor tertinggi.
 
 Proyek ini dibuat sebagai pemenuhan **Tugas Masa Depan (TMD)** mata kuliah **Desain Pemrograman Berorientasi Objek (DPBO)**.
 
